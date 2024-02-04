@@ -5,6 +5,9 @@
 - Implemented a way to change the color of the background
 - Aligned text to improve organization
 
+![Kapture 2024-02-04 at 11 04 22](https://github.com/ashhendrata/intro-to-ios/assets/134671782/8633f5bd-1b46-4d5a-b90d-f9b81dde06e7)
+
+
  # App Brainstorming
 
 My favorite applications and why!
